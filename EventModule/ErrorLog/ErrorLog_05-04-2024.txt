@@ -1,0 +1,737 @@
+------------------------------------------05-04-2024 11:27:12------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:27:14------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:27:14------------------------------------------
+api/ExpenseManager/LoginUserValue cannot be null.
+Parameter name: s   at System.Convert.FromBase64String(String s)
+   at BL.AddEventBL.AddEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddEventBL.cs:line 27
+   at EventModule.Controllers.EventModuleController.AddEvent(EventEntity Event) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\EventModule\Controllers\EventModuleController.cs:line 72
+------------------------------------------05-04-2024 11:28:30------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:28:31------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:33:12------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:33:13------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:34:37------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:34:38------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:47:27------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:47:28------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:47:34------------------------------------------
+api/ExpenseManager/LoginUserThe given path's format is not supported.   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at BL.AddEventBL.AddEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddEventBL.cs:line 33
+   at EventModule.Controllers.EventModuleController.AddEvent(EventEntity Event) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\EventModule\Controllers\EventModuleController.cs:line 72
+------------------------------------------05-04-2024 11:47:51------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:48:32------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:48:32------------------------------------------
+api/ExpenseManager/LoginUserThe given path's format is not supported.   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at BL.AddEventBL.AddEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddEventBL.cs:line 33
+   at EventModule.Controllers.EventModuleController.AddEvent(EventEntity Event) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\EventModule\Controllers\EventModuleController.cs:line 72
+------------------------------------------05-04-2024 11:48:37------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:48:38------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:48:38------------------------------------------
+api/ExpenseManager/LoginUserThe given path's format is not supported.   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at BL.AddEventBL.AddEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddEventBL.cs:line 33
+   at EventModule.Controllers.EventModuleController.AddEvent(EventEntity Event) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\EventModule\Controllers\EventModuleController.cs:line 72
+------------------------------------------05-04-2024 11:49:12------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:49:17------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:50:53------------------------------------------
+api/ExpenseManager/LoginUserThe given path's format is not supported.   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalWriteAllBytes(String path, Byte[] bytes, Boolean checkHost)
+   at BL.AddEventBL.AddEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddEventBL.cs:line 33
+   at EventModule.Controllers.EventModuleController.AddEvent(EventEntity Event) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\EventModule\Controllers\EventModuleController.cs:line 72
+------------------------------------------05-04-2024 11:51:13------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:51:14------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:54:30------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:54:30------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 11:54:33------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionCannot insert the value NULL into column 'Name', table 'EventModule.dbo.EventTbl'; column does not allow nulls. INSERT fails.
+The statement has been terminated.   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Library.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 576
+   at Library.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 488
+   at Library.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 522
+   at BL.AddEventBL.AddEvent(EventEntity objEntity)
+------------------------------------------05-04-2024 11:56:43------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 11:56:43------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 12:07:55------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:07:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 12:08:42------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:08:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 12:25:46------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:25:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 12:29:35------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:29:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 12:32:15------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionIllegal characters in path.   at System.Security.Permissions.FileIOPermission.EmulateFileIOPermissionChecks(String fullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize, FileOptions options, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   at System.IO.File.InternalReadAllBytes(String path, Boolean checkHost)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 59
+------------------------------------------05-04-2024 12:32:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:32:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 12:50:27------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 12:50:27------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 13:31:15------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:31:16------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:31:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:31:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:31:30------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:31:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:33:28------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:33:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:40:35------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:40:37------------------------------------------
+AddActivityBL=>AddActivity=>Started
+------------------------------------------05-04-2024 13:43:58------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:43:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:43:59------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionThe INSERT statement conflicted with the FOREIGN KEY constraint "FK__ActivityT__Event__4E88ABD4". The conflict occurred in database "EventModule", table "dbo.EventTbl", column 'EventId'.
+The statement has been terminated.   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Library.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 576
+   at Library.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 488
+   at Library.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 522
+   at BL.AddActivityBL.AddActivity(ActivityEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\AddActivityBL.cs:line 42
+------------------------------------------05-04-2024 13:44:36------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:44:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:45:12------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:45:14------------------------------------------
+AddActivityBL=>AddActivity=>Started
+------------------------------------------05-04-2024 13:47:28------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 13:47:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 13:47:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:17:58------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:17:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:19:48------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:19:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:22:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:22:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:22:44------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:22:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:35:01------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:35:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:37:51------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:37:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:53:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:53:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:54:31------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:54:32------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 14:56:50------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:56:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 14:57:09------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 14:57:09------------------------------------------
+AddActivityBL=>AddActivity=>Started
+------------------------------------------05-04-2024 15:11:50------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 15:11:52------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------05-04-2024 15:59:44------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 15:59:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:02:53------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 16:02:54------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 16:03:17------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 16:03:17------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 16:03:25------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 16:03:25------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 16:16:19------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:16:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:18:42------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:18:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:18:45------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:18:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:20:23------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:20:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:21:15------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:21:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:22:35------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:22:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:23:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:23:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:23:33------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:23:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:24:14------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:24:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:24:14------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:24:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:25:10------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:25:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:27:36------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:27:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:27:41------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:27:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:28:49------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:28:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:30:11------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:30:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:30:14------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:30:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:30:21------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:30:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:32:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:32:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:32:28------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:32:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:32:42------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:32:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:33:39------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:33:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:33:50------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:33:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:33:52------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:33:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:34:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:34:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:34:13------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:34:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:34:18------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:34:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:35:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:35:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:35:38------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:35:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:36:19------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 16:36:20------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 16:36:26------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:36:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:36:33------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 16:36:34------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 16:36:55------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:36:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:36:58------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:36:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:37:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:37:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:37:09------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 16:37:16------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 16:38:09------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:38:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:38:17------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:38:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:38:21------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:38:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:38:23------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:38:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:38:59------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:38:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:39:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:39:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:39:04------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:39:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:39:05------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:39:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:04------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:05------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:06------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:09------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:11------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:37------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:39------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:40------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:41------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:57------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:40:59------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:40:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:41:04------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:41:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 16:41:07------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 16:41:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:03:54------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:03:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:04:06------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:04:08------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 17:04:40------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:04:41------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 17:06:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:06:33------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:06:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:06:43------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:06:44------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 17:07:23------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:07:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:07:37------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:07:37------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 17:08:00------------------------------------------
+api/ExpenseManager/PublishOrAddPrice=>API call started
+------------------------------------------05-04-2024 17:08:00------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------05-04-2024 17:28:16------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:28:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:28:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:28:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:28:23------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:28:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:28:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:28:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:30:11------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:30:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:32:31------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:32:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:35:54------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:35:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:37:06------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:37:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:37:11------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:37:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:38:03------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:38:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:39:27------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:39:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:39:30------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:39:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:39:34------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:39:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:44:24------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:44:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:46:18------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:46:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:47:16------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:47:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:47:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:47:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:47:23------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:47:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:37------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:44------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:45------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:50------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:52------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 17:53:53------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 17:53:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:04:05------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 18:04:05------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 18:04:15------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 18:04:15------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 18:05:40------------------------------------------
+api/ExpenseManager/LoginUser=>API call starte
+------------------------------------------05-04-2024 18:05:40------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------05-04-2024 18:09:24------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:09:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:09:27------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:09:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:09:28------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:09:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:30:10------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:30:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:32:22------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:32:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:32:34------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:32:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:33:02------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:33:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:33:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:33:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:33:39------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:33:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:37:01------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:37:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:37:22------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:37:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 18:37:26------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 18:37:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:00:10------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:00:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:08:20------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:08:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:08:34------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:08:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:08:38------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:09:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:09:22------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:09:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:09:27------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:09:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:11:17------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:11:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:11:22------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:11:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:12:32------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:12:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:12:39------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:12:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:18:39------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:18:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:18:43------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:18:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:18:47------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:18:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:19:04------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:19:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:19:10------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:19:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:20:24------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:20:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:20:31------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:20:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:20:34------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:20:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------05-04-2024 19:20:40------------------------------------------
+api/ExpenseManager/AddEvent=>API call started
+------------------------------------------05-04-2024 19:20:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
