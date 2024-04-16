@@ -42,8 +42,8 @@ namespace BL
 
                 ds = SqlHelper.ExecuteDataset(Con_str, query, Sqlpara);
 
-                //it will send an message that user registered succesfully or message that already email is exist 
-                //and if rgistered succesfully so it will send that user data in second data
+                //it will return 1 as ID when registered successfully and if user already exist it will return 0 as ID 
+                //and if something went wrong some detail is missing like that so it will restun -1 as ID 
                 if (ds?.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
                     objResponsemessage.Message = Convert.ToString(ds.Tables[0].Rows[0]["Resultmessage"]);

@@ -39,8 +39,8 @@ namespace BL
 
                 ds = SqlHelper.ExecuteDataset(Con_str, query, Sqlpara);
 
-                //it will send an message that user registered succesfully or message that already email is exist 
-                //and if rgistered succesfully so it will send that user data in second data
+                // it will return activities or events based on flags and when return successfully it will return 1 as ID 
+                //if no events available or activity is not available it will return 0 as ID and in errors it will return -1 as ID 
                 if (ds?.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
 
@@ -52,7 +52,7 @@ namespace BL
                     if(ds?.Tables.Count > 1 && ds.Tables[1].Rows.Count > 0)
                     {
                         objResponsemessage.ArrayOfResponse = bl.ListConvertDataTable<EventEntity>(ds.Tables[1]);
-                        if (objEntity.Flag != "ActibityShow")
+                        if (objEntity.Flag != "ActibityShow" && objEntity.Flag != "AdminActibityShow")
                         {
                             foreach (var item in objResponsemessage.ArrayOfResponse)
                             {
@@ -64,7 +64,7 @@ namespace BL
                             }
                         }
 
-                      
+            
                     }
 
                 }
