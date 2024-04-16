@@ -48,6 +48,7 @@
     <Compile Include="PublishOrAddPriceBL.cs" />
     <Compile Include="RegisterUserBL.cs" />
     <Compile Include="ShowEventActivity.cs" />
+    <Compile Include="UpdateEvent.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Library\Library.csproj">

@@ -39,7 +39,8 @@ namespace BL
 
                 ds = SqlHelper.ExecuteDataset(Con_str, query, Sqlpara);
 
-                //this will return responsemessage and ID if ID is 1 so user exist otherwise not exist 
+                //it will return ID as 1 when login successfully and 0 when not valid user and -1 when something went wrong
+                //and also send a message that login successfully or invalid user
                 if (ds?.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
                     objResponsemessage.Message = Convert.ToString(ds.Tables[0].Rows[0]["ResponseMessage"]);

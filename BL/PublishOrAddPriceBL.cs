@@ -27,7 +27,7 @@ namespace BL
             {
 
                 string Con_str = Connection.GetConnectionString();
-                SqlParameter prm1 = objSDP.CreateInitializedParameter("@Price", DbType.String, objEntity.Price);
+                SqlParameter prm1 = objSDP.CreateInitializedParameter("@Price", DbType.Int64, objEntity.Price);
                 SqlParameter prm2 = objSDP.CreateInitializedParameter("@ActivityId", DbType.String, objEntity.ActivityId);
                 SqlParameter prm3 = objSDP.CreateInitializedParameter("@EventId", DbType.String, objEntity.EventId);
                 SqlParameter prm4 = objSDP.CreateInitializedParameter("@Flag", DbType.String, objEntity.Flag);
@@ -40,8 +40,8 @@ namespace BL
 
                 ds = SqlHelper.ExecuteDataset(Con_str, query, Sqlpara);
 
-                //it will send an message that user registered succesfully or message that already email is exist 
-                //and if rgistered succesfully so it will send that user data in second data
+                 //publish--> it will return ID as 1 when publish successfully and 0 when event don't have any activity
+                 //Add Price--> it will return 1 when price added successfulyl and 0 when not added successfully
                 if (ds?.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
                     objResponsemessage.Message = Convert.ToString(ds.Tables[0].Rows[0]["ResponseMessage"]);
@@ -51,6 +51,7 @@ namespace BL
                 else
                 {
                     objResponsemessage.Message = "400|No Data Found";
+                    objResponsemessage.ID = 0;
                 }
 
             }
