@@ -20,22 +20,24 @@ namespace EventModule.Controllers
         [Route("api/EventModule/RegisterUser")]
         [HttpPost]
 
-        public SerializeResponse<UserEntity> RegisterUser([FromBody] UserEntity user)
+        public HttpResponseMessage RegisterUser([FromBody] UserEntity user)
         {
             InsertLog.WriteErrrorLog("api/EventModule/RegisterUser=>API call starte");
             SerializeResponse<UserEntity> Response = new SerializeResponse<UserEntity>();
             try
             {
                 RegisterUserBL userbl = new RegisterUserBL();
-                return userbl.RegisterUSer(user);
+                Response = userbl.RegisterUSer(user);
+               
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/RegisterUser" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+                
             }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
 
 
         }
@@ -44,44 +46,46 @@ namespace EventModule.Controllers
         [Route("api/EventModule/Login")]
         [HttpPost]
 
-        public SerializeResponse<UserEntity> Login([FromBody] UserEntity user)
+        public HttpResponseMessage Login([FromBody] UserEntity user)
         {
             InsertLog.WriteErrrorLog("api/EventModule/Login=>API call starte");
             SerializeResponse<UserEntity> Response = new SerializeResponse<UserEntity>();
             try
             {
                 LoginAdimAndUserBL loginuserbl = new LoginAdimAndUserBL();
-                return loginuserbl.Login(user);
+                Response = loginuserbl.Login(user);
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/Login" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+               
             }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
 
         }
         //API for adding Events
         [Route("api/EventModule/AddEvent")]
         [HttpPost]
 
-        public SerializeResponse<EventEntity> AddEvent( EventEntity Event)
+        public HttpResponseMessage AddEvent( EventEntity Event)
         {
             InsertLog.WriteErrrorLog("api/EventModule/AddEvent=>API call started");
             SerializeResponse<EventEntity> Response = new SerializeResponse<EventEntity>();
             try
             {
                  AddEventBL addEventBL = new AddEventBL();
-                return addEventBL.AddEvent(Event);
+                Response= addEventBL.AddEvent(Event);
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/AddEvent" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+               
             }
+            return Request.CreateResponse(HttpStatusCode.OK,Response);
 
         }
 
@@ -89,22 +93,23 @@ namespace EventModule.Controllers
         [Route("api/EventModule/AddActivity")]
         [HttpPost]
 
-        public SerializeResponse<ActivityEntity> AddActivity(ActivityEntity Activity)
+        public HttpResponseMessage AddActivity(ActivityEntity Activity)
         {
             InsertLog.WriteErrrorLog("api/EventModule/AddActivity=>API call started");
             SerializeResponse<ActivityEntity> Response = new SerializeResponse<ActivityEntity>();
             try
             {
                 AddActivityBL addActivityBL = new AddActivityBL();
-                return addActivityBL.AddActivity(Activity);
+                Response= addActivityBL.AddActivity(Activity);
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/AddActivity" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+              
             }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
 
         }
 
@@ -113,22 +118,23 @@ namespace EventModule.Controllers
         [Route("api/EventModule/showEventOrActivity")]
         [HttpPost]
 
-        public SerializeResponse<EventEntity> showEventOrActivity(EventEntity Activity)
+        public HttpResponseMessage showEventOrActivity(EventEntity Activity)
         {
             InsertLog.WriteErrrorLog("api/EventModule/showEventOrActivity=>API call started");
             SerializeResponse<EventEntity> Response = new SerializeResponse<EventEntity>();
             try
             {
                ShowEventActivity showEventActivity = new ShowEventActivity();
-              return  showEventActivity.activityAndEvent(Activity);
+                Response= showEventActivity.activityAndEvent(Activity);
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/showEventOrActivity" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+              
             }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
 
         }
 
@@ -136,7 +142,7 @@ namespace EventModule.Controllers
         [Route("api/EventModule/PublishOrAddPrice")]
         [HttpPost]
 
-        public SerializeResponse<EventEntity> PublishOrAddPrice(EventEntity Event)
+        public HttpResponseMessage PublishOrAddPrice(EventEntity Event)
         {
             InsertLog.WriteErrrorLog("api/EventModule/PublishOrAddPrice=>API call started");
             SerializeResponse<EventEntity> Response = new SerializeResponse<EventEntity>();
@@ -144,37 +150,40 @@ namespace EventModule.Controllers
             try
             {
                 PublishOrAddPriceBL publishOrAddPriceBL = new PublishOrAddPriceBL();
-                 return publishOrAddPriceBL.PriceorPublis(Event);
+                Response= publishOrAddPriceBL.PriceorPublis(Event);
             }
             catch (Exception ex)
             {
                 InsertLog.WriteErrrorLog("api/EventModule/PublishOrAddPrice" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+                
             }
+            return Request.CreateResponse(HttpStatusCode.OK,Response);
 
         }
 
+        //this is for updating the Event
         [Route("api/EventModule/UpdateEvent")]
         [HttpPost]
 
-        public SerializeResponse<EventEntity> UpdateEvent(EventEntity Event)
+        public HttpResponseMessage UpdateEvent(EventEntity Event)
         {
             InsertLog.WriteErrrorLog("api/EventModule/UpdateEvent");
             SerializeResponse<EventEntity> Response = new SerializeResponse<EventEntity>();
             try
             {
                 UpdateEvent update = new UpdateEvent();
-               return update.Update(Event);
+                Response= update.Update(Event);
             }
             catch (Exception ex)
             {
-                InsertLog.WriteErrrorLog("api/EventModule/PublishOrAddPrice" + ex.Message + ex.StackTrace);
+                InsertLog.WriteErrrorLog("api/EventModule/UpdateEvent" + ex.Message + ex.StackTrace);
                 Response.Message = ex.Message;
                 Response.ID = -1;
-                return Response;
+               
             }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
 
         }
     }

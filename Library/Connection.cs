@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Configuration;
 using System.Data;
 using System.Data.SqlClient;
 using System.Linq;
@@ -19,7 +20,8 @@ namespace Library
 
         public static string GetConnectionString()
         {
-            string con = "Data Source=OPTIMUM98\\SQLEXPRESS;Initial Catalog=EventModule;Integrated Security=SSPI";
+            //databsse connection string
+            string con = ConfigurationManager.ConnectionStrings["dbconnection"].ConnectionString;
             return con;
 
         }
