@@ -9,6 +9,7 @@ namespace Models
 {
     public class ActivityEntity
     {
+        //setting the vallidation for Id so no one can send a string here
         [Range(0, int.MaxValue, ErrorMessage = "Please enter valid integer Number")]
         public int ActivityId { get; set; }
         public string Name { get; set; }

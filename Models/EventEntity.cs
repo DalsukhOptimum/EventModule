@@ -23,8 +23,10 @@ namespace Models
         public string Image { get; set; }
 
         public string Flag { get; set; }
+        //setting the vallidation for Price so no one can send a string here
         [Range(0, int.MaxValue, ErrorMessage = "Please enter valid integer Number")]
         public int Price { get; set; }
+        //setting the vallidation for ActivityId so no one can send a string here
         [Range(0, int.MaxValue, ErrorMessage = "Please enter valid integer Number")]
         public string ActivityId { get; set; }    
 
