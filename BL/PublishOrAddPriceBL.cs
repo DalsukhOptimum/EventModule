@@ -12,6 +12,11 @@ namespace BL
 {
     public class PublishOrAddPriceBL
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for adding a price or publish an Event.
+        /// </summary>
         public SerializeResponse<EventEntity> PriceorPublis(EventEntity objEntity)
         {
 

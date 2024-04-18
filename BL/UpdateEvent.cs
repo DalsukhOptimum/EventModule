@@ -13,6 +13,11 @@ namespace BL
 {
     public class UpdateEvent
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for updating an Event 
+        /// </summary>
 
         public SerializeResponse<EventEntity> Update(EventEntity objEntity)
         {
@@ -24,6 +29,8 @@ namespace BL
             DataSet ds = new DataSet();
             SqlDataProvider objSDP = new SqlDataProvider();
 
+            //checking that whether image is null or not null
+            //and if not null so converting it into base64 to image 
             string imgpath="";
             if (objEntity.Image != null)
             {
@@ -37,10 +44,8 @@ namespace BL
             }
 
 
-            //objEntity.StartDate = objEntity.StartDate.Replace("T", " ");
+           //converting date formate of angular to SQL 
             objEntity.StartDate = objEntity.StartDate + " 00:00:00.000";
-
-            //objEntity.EndDate = objEntity.EndDate.Replace("T", " ");s
             objEntity.EndDate = objEntity.EndDate + " 00:00:00.000";
 
             string query = "SPUpdateEvent";
@@ -64,6 +69,7 @@ namespace BL
                 ds = SqlHelper.ExecuteDataset(Con_str, query, Sqlpara);
 
                 //it will return an message that event Updated successfully
+                //or some EventId is not valid it will send not valid Event
                 if (ds?.Tables.Count > 0 && ds.Tables[0].Rows.Count > 0)
                 {
                     objResponsemessage.Message = Convert.ToString(ds.Tables[0].Rows[0]["ResponseMessage"]);

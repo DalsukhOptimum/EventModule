@@ -12,6 +12,11 @@ namespace BL
 {
     public class LoginAdimAndUserBL
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for login user and admin 
+        /// </summary>
         public SerializeResponse<UserEntity> Login(UserEntity objEntity)
         {
 

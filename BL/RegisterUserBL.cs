@@ -13,6 +13,11 @@ namespace BL
 {
     public class RegisterUserBL
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for registration of user 
+        /// </summary>
 
         public SerializeResponse<UserEntity> RegisterUSer(UserEntity objEntity)
         {

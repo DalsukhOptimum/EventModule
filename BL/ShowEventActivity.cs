@@ -12,7 +12,12 @@ namespace BL
 {
     public class ShowEventActivity
     {
-
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for showing an Event or Activity
+        /// while fetching an event it will convert an Event image to base64 string 
+        /// </summary>
         public SerializeResponse<EventEntity> activityAndEvent(EventEntity objEntity)
         {
 
@@ -54,6 +59,7 @@ namespace BL
                         objResponsemessage.ArrayOfResponse = bl.ListConvertDataTable<EventEntity>(ds.Tables[1]);
                         if (objEntity.Flag != "ActibityShow" && objEntity.Flag != "AdminActibityShow")
                         {
+                            //converting an image to base64 for sedning to angular
                             foreach (var item in objResponsemessage.ArrayOfResponse)
                             {
                                 item.ImageType = item.Image.ToString().Split('.')[1];
