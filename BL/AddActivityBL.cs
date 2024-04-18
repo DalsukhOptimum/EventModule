@@ -12,6 +12,13 @@ namespace BL
 {
     public class AddActivityBL
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// For Adding Activity
+        /// that will call Add_Activity_SP 
+        /// that SP first check whether that Activity is alreday Exist or not and if not exists it will add 
+        /// </summary>
 
         public SerializeResponse<ActivityEntity> AddActivity(ActivityEntity objEntity)
         {

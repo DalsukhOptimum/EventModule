@@ -13,7 +13,11 @@ namespace BL
 {
     public class AddEventBL
     {
-
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:04-04-2024
+        /// this is for Adding an Event this will first convert an image to base64 and then store it in database
+        /// </summary>
         public SerializeResponse<EventEntity> AddEvent(EventEntity objEntity)
         {
 
@@ -24,6 +28,8 @@ namespace BL
             DataSet ds = new DataSet();
             SqlDataProvider objSDP = new SqlDataProvider();
 
+            //converting base64 to image 
+            //and storing it in Images directory and different names 
             byte[] imageBytes = Convert.FromBase64String(objEntity.Image);
             Directory.CreateDirectory(AppDomain.CurrentDomain.BaseDirectory + "Images");
 

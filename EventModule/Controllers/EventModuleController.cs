@@ -27,6 +27,7 @@ namespace EventModule.Controllers
             try
             {
                 RegisterUserBL userbl = new RegisterUserBL();
+                //calling RegisterUSer method of  BL Libarary for user Register
                 Response = userbl.RegisterUSer(user);
                
             }
@@ -53,6 +54,7 @@ namespace EventModule.Controllers
             try
             {
                 LoginAdimAndUserBL loginuserbl = new LoginAdimAndUserBL();
+                //calling LoginUserbl method of  BL Libarary for user or Admin  login 
                 Response = loginuserbl.Login(user);
             }
             catch (Exception ex)
@@ -76,7 +78,8 @@ namespace EventModule.Controllers
             try
             {
                  AddEventBL addEventBL = new AddEventBL();
-                Response= addEventBL.AddEvent(Event);
+                //calling AddEvent method of  BL Libarary for Adding an Event 
+                Response = addEventBL.AddEvent(Event);
             }
             catch (Exception ex)
             {
@@ -100,7 +103,9 @@ namespace EventModule.Controllers
             try
             {
                 AddActivityBL addActivityBL = new AddActivityBL();
-                Response= addActivityBL.AddActivity(Activity);
+                //calling AddActivity method of  BL Libarary for Adding an Activity 
+
+                Response = addActivityBL.AddActivity(Activity);
             }
             catch (Exception ex)
             {
@@ -125,7 +130,9 @@ namespace EventModule.Controllers
             try
             {
                ShowEventActivity showEventActivity = new ShowEventActivity();
-                Response= showEventActivity.activityAndEvent(Activity);
+                //calling activityAndEvent method of  BL Libarary for shoe Event or Activity
+
+                Response = showEventActivity.activityAndEvent(Activity);
             }
             catch (Exception ex)
             {
@@ -150,7 +157,9 @@ namespace EventModule.Controllers
             try
             {
                 PublishOrAddPriceBL publishOrAddPriceBL = new PublishOrAddPriceBL();
-                Response= publishOrAddPriceBL.PriceorPublis(Event);
+                //calling PriceorPublis method of  BL Libarary for oublish or Add Price 
+
+                Response = publishOrAddPriceBL.PriceorPublis(Event);
             }
             catch (Exception ex)
             {
@@ -174,7 +183,9 @@ namespace EventModule.Controllers
             try
             {
                 UpdateEvent update = new UpdateEvent();
-                Response= update.Update(Event);
+                //calling Update method of  BL Libarary for Updating an Event 
+
+                Response = update.Update(Event);
             }
             catch (Exception ex)
             {
