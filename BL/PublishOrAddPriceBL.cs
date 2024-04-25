@@ -63,6 +63,7 @@ namespace BL
             catch (Exception ex)
             {
                 objResponsemessage.Message = "500|Exception Occurred" + ex.Message;
+                objResponsemessage.ID = -1;
                 InsertLog.WriteErrrorLog("UserReBL=>RegisterUSer=>Exception" + ex.Message + ex.StackTrace);
             }
             return objResponsemessage;

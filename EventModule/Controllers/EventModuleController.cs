@@ -197,5 +197,33 @@ namespace EventModule.Controllers
             return Request.CreateResponse(HttpStatusCode.OK, Response);
 
         }
+
+
+        [Route("api/EventModule/Calander")]
+        [HttpPost]
+
+        public HttpResponseMessage Calander(EventEntity Event)
+        {
+            InsertLog.WriteErrrorLog("api/EventModule/Calander");
+            SerializeResponse<EventEntity> Response = new SerializeResponse<EventEntity>();
+            try
+            {
+                Monthwise monthwise = new Monthwise();
+                //calling Update method of  BL Libarary for Updating an Event 
+
+                Response = monthwise.Monthwiseshow(Event);
+            }
+            catch (Exception ex)
+            {
+                InsertLog.WriteErrrorLog("api/EventModule/UpdateEvent" + ex.Message + ex.StackTrace);
+                Response.Message = ex.Message;
+                Response.ID = -1;
+
+            }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
+
+        }
+
+
     }
 }

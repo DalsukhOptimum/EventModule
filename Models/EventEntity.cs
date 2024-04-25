@@ -31,8 +31,10 @@ namespace Models
         public string ActivityId { get; set; }    
 
         public string ImageType { get; set; }   
+        public int IsPublish { get; set; }
 
-       
+        public int Month { get; set; }
+
     }
 
 
