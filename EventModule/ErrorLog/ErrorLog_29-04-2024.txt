@@ -1,0 +1,1711 @@
+------------------------------------------29-04-2024 10:56:17------------------------------------------
+api/EventModule/RegisterUser=>API call starte
+------------------------------------------29-04-2024 10:56:17------------------------------------------
+UserReBL=>RegisterUSer=>Started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 10:59:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:01:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:01:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:01:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:01:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:01:12------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 11:01:12------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 11:01:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:01:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:01:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:01:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:54:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:54:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:54:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:54:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:54:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:54:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:54:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:54:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:54:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:54:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:56:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:56:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:56:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:56:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:56:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:56:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:56:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:56:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:56:58------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 11:56:58------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 11:56:59------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 11:56:59------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 11:58:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:27------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 11:58:27------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 11:58:29------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 11:58:29------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 11:58:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:58:40------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 11:58:40------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 11:58:49------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 11:58:49------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 11:58:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:58:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:59:37------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 11:59:37------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 11:59:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:59:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:59:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:59:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 11:59:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 11:59:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:06------------------------------------------
+api/EventModule/AddActivity=>API call started
+------------------------------------------29-04-2024 12:00:06------------------------------------------
+AddActivityBL=>AddActivity=>Started
+------------------------------------------29-04-2024 12:00:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:18------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 12:00:18------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 12:00:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:23------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 12:00:23------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 12:00:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:28------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 12:00:28------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 12:00:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:30------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 12:00:30------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 12:00:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:37------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 12:00:37------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 12:00:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:47------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:00:47------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:00:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:00:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:00:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:03:19------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 12:03:19------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 12:03:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:03:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:03:39------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 12:03:39------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 12:03:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:03:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:04:05------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 12:04:05------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 12:04:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:04:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:04:21------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:04:21------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:04:23------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:04:23------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:04:24------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:04:24------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:15:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:15:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:15:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:15:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:15:52------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:15:52------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:15:54------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:15:54------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:15:58------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:15:58------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:16:00------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:16:00------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:16:03------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 12:16:03------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 12:35:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:29------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 12:35:29------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 12:35:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:35:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:35:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:39:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:39:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:39:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:39:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:40:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 12:40:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 12:41:12------------------------------------------
+api/EventModule/RegisterUser=>API call starte
+------------------------------------------29-04-2024 12:41:12------------------------------------------
+UserReBL=>RegisterUSer=>Started
+------------------------------------------29-04-2024 12:56:26------------------------------------------
+api/EventModule/RegisterUser=>API call starte
+------------------------------------------29-04-2024 12:56:26------------------------------------------
+UserReBL=>RegisterUSer=>Started
+------------------------------------------29-04-2024 12:56:27------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionCannot insert the value NULL into column 'Email', table 'EventModule.dbo.UserTbl'; column does not allow nulls. INSERT fails.
+The statement has been terminated.   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataSet dataSet)
+   at Library.SqlHelper.ExecuteDataset(SqlConnection connection, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 576
+   at Library.SqlHelper.ExecuteDataset(String connectionString, CommandType commandType, String commandText, SqlParameter[] commandParameters) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 488
+   at Library.SqlHelper.ExecuteDataset(String connectionString, String spName, Object[] parameterValues) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\Library\SqlHelper.cs:line 522
+   at BL.RegisterUserBL.RegisterUSer(UserEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\RegisterUserBL.cs:line 48
+------------------------------------------29-04-2024 13:03:18------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:03:18------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:03:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:03:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:04:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:04:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:05:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:05:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:05:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:05:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:06:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:06:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:06:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:06:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:06:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:06:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:06:55------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:06:55------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:06:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:06:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:08:50------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:08:50------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:08:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:08:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:09:08------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 13:09:08------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 13:09:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:09:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:09:12------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 13:09:12------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 13:09:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:09:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:34------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 13:10:34------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 13:10:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:10:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:10:47------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 13:10:47------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 13:10:49------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 13:10:49------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 13:11:08------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:11:08------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:11:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:11:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:12:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:12:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:13:01------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 13:13:01------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 13:13:34------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:13:34------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:13:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:13:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:13:37------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 13:13:37------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 13:14:06------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:14:06------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:14:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:14:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:14:10------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 13:14:10------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 13:14:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:14:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:16:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:16:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:17:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:17:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:17:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:17:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:18:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:18:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:19:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:19:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:19:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:19:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:20:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:20:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:21:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:21:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:21:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:21:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:21:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:21:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:21:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:21:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:21:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:21:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 13:55:49------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 13:55:49------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 13:55:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 13:55:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:43:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:43:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:43:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:43:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:44:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:44:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:45:08------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 14:45:08------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 14:45:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:45:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:45:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:45:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:45:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:45:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:45:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:45:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:45:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:45:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:47:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:47:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:47:27------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 14:47:27------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 14:47:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:47:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:57:59------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 14:57:59------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 14:57:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:57:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 14:58:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 14:58:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:00:27------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 15:00:27------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 15:00:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:00:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:00:57------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 15:00:57------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 15:00:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:00:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:01:29------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 15:01:29------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 15:01:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:01:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:01:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:01:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:01:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:01:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:01:57------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 15:01:57------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 15:01:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:01:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:02:33------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 15:02:33------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 15:02:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:02:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:02:35------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 15:02:35------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 15:02:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:02:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:02:37------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 15:02:37------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 15:02:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:02:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:02:39------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 15:02:39------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 15:02:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:02:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:04:06------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------29-04-2024 15:04:06------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------29-04-2024 15:04:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:04:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:04------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 15:10:04------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 15:10:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:10:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:10:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:21:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:21:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:21:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:21:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:22:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:22:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:38:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:38:57------------------------------------------
+api/EventModule/Calander
+------------------------------------------29-04-2024 15:38:57------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------29-04-2024 15:39:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:39:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 15:39:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 15:39:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 16:36:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 16:36:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 16:36:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 16:36:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 16:58:09------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 16:58:09------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 16:58:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 16:58:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 16:58:14------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 16:58:14------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 16:58:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 16:58:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 16:58:15------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------29-04-2024 16:58:15------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------29-04-2024 16:58:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 16:58:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 17:31:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 17:31:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 17:48:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 17:48:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:08:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:08:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:09:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:09:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:49------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------29-04-2024 18:10:49------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------29-04-2024 18:10:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:10:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:10:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:11:04------------------------------------------
+api/EventModule/AddActivity=>API call started
+------------------------------------------29-04-2024 18:11:04------------------------------------------
+AddActivityBL=>AddActivity=>Started
+------------------------------------------29-04-2024 18:11:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:11:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:11:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:11:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:12:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:12:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:12:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:12:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:12:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:12:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:12:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:12:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:12:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:12:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:13:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:13:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:14:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:14:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:14:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:14:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:14:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:14:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:14:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:14:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:15:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:15:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:16:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:16:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:17:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:17:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:19:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:19:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:20:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:20:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:20:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:20:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:20:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:20:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:20:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:20:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:22:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:22:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:22:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:22:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:22:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:22:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:22:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:22:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:24:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:24:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:26:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:26:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:26:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:27:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:27:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:27:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:27:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:27:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:27:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:27:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:27:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:28:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:28:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:28:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:28:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:28:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:28:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:28:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:28:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:30:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:30:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:31:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:31:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:32:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:32:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:35:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:35:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:35:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:35:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:35:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:35:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:35:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:35:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:36:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:36:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:38:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:38:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:39:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:39:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:39:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:39:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:39:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:39:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:40:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:40:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:41:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:41:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:42:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:42:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:43:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:43:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:43:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:43:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:43:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:43:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:43:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:43:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:44:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:44:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:45:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:45:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:45:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:45:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:45:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:45:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:45:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:45:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:45:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:45:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:46:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:46:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:46:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:46:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:46:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:46:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:49:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:49:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:49:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:49:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:49:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:49:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:49:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:49:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:50:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:50:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:50:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:50:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:50:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:50:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:50:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:50:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:51:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:51:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:51:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:51:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:51:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:51:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:51:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:51:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:55:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:55:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:55:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:55:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:55:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:55:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------29-04-2024 18:55:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------29-04-2024 18:55:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started

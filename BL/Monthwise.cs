@@ -12,6 +12,13 @@ namespace BL
 {
     public class Monthwise
     {
+        /// <summary>
+        /// Name:Nanera Dalsukh
+        /// Date:25-04-2024
+        /// For Events of particular Month
+        /// that will call MonthwiseSP 
+        /// that SP will return an EVent of that Months if no Months found it will return ID as 0 
+        /// </summary>
 
         public SerializeResponse<EventEntity> Monthwiseshow(EventEntity objEntity)
         {
@@ -51,19 +58,16 @@ namespace BL
                     if (ds?.Tables.Count > 1 && ds.Tables[1].Rows.Count > 0)
                     {
                         objResponsemessage.ArrayOfResponse = bl.ListConvertDataTable<EventEntity>(ds.Tables[1]);
-                        //if (objEntity.Flag != "ActibityShow" && objEntity.Flag != "AdminActibityShow")
-                        //{
-                        //    //converting an image to base64 for sedning to angular
-                        //    foreach (var item in objResponsemessage.ArrayOfResponse)
-                        //    {
-                        //        item.ImageType = item.Image.ToString().Split('.')[1];
-                        //        byte[] imageArray = System.IO.File.ReadAllBytes(item.Image);
-                        //        string base64ImageRepresentation = Convert.ToBase64String(imageArray);
-                        //        item.Image = base64ImageRepresentation;
 
-                        //    }
-                        //}
+                        //converting an image to base64 for sedning to angular
+                        foreach (var item in objResponsemessage.ArrayOfResponse)
+                        {
+                            item.ImageType = item.Image.ToString().Split('.')[1];
+                            byte[] imageArray = System.IO.File.ReadAllBytes(item.Image);
+                            string base64ImageRepresentation = Convert.ToBase64String(imageArray);
+                            item.Image = base64ImageRepresentation;
 
+                        }
 
                     }
 

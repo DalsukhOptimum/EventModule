@@ -16,7 +16,7 @@ namespace EventModule.Controllers
     [MyAttribute]
     public class EventModuleController : ApiController
     {
-        // api for  REgistration of user
+        // api for  Registration of user
         [Route("api/EventModule/RegisterUser")]
         [HttpPost]
 
@@ -29,6 +29,7 @@ namespace EventModule.Controllers
                 RegisterUserBL userbl = new RegisterUserBL();
                 //calling RegisterUSer method of  BL Libarary for user Register
                 Response = userbl.RegisterUSer(user);
+
                
             }
             catch (Exception ex)
@@ -198,7 +199,7 @@ namespace EventModule.Controllers
 
         }
 
-
+        //for fetching data of particular Month Events
         [Route("api/EventModule/Calander")]
         [HttpPost]
 
@@ -209,9 +210,8 @@ namespace EventModule.Controllers
             try
             {
                 Monthwise monthwise = new Monthwise();
-                //calling Update method of  BL Libarary for Updating an Event 
-
                 Response = monthwise.Monthwiseshow(Event);
+                //calling Monthwiseshow method of  BL Libarary for Updating an Event 
             }
             catch (Exception ex)
             {
