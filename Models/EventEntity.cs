@@ -35,6 +35,8 @@ namespace Models
 
         public int Month { get; set; }
 
+        public int count { get; set; }
+
     }
 
 

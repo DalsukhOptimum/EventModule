@@ -224,6 +224,51 @@ namespace EventModule.Controllers
 
         }
 
+        [Route("api/EventModule/OTPGeneration")]
+        [HttpPost]
+
+        public HttpResponseMessage OTPGeneration(EmailEntity Emailobj)
+        {
+            InsertLog.WriteErrrorLog("api/EventModule/EmailVerification");
+            SerializeResponse<EmailEntity> Response = new SerializeResponse<EmailEntity>();
+            try
+            {
+               EmailVarificationBL emailVarificationBL = new EmailVarificationBL();
+                Response = emailVarificationBL.Emailverify(Emailobj);
+            }
+            catch (Exception ex)
+            {
+                InsertLog.WriteErrrorLog("api/EventModule/EmailVerification" + ex.Message + ex.StackTrace);
+                Response.Message = ex.Message;
+                Response.ID = -1;
+
+            }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
+
+        }
+
+        [Route("api/EventModule/EmailVerification")]
+        [HttpPost]
+        public HttpResponseMessage EmailVerification(EmailEntity Emailobj)
+        {
+            InsertLog.WriteErrrorLog("api/EventModule/EmailVerification");
+            SerializeResponse<EmailEntity> Response = new SerializeResponse<EmailEntity>();
+            try
+            {
+                OTPMatchBL oTPMatchBL = new OTPMatchBL();
+                Response = oTPMatchBL.otpComapre(Emailobj);
+            }
+            catch (Exception ex)
+            {
+                InsertLog.WriteErrrorLog("api/EventModule/EmailVerification" + ex.Message + ex.StackTrace);
+                Response.Message = ex.Message;
+                Response.ID = -1;
+
+            }
+            return Request.CreateResponse(HttpStatusCode.OK, Response);
+
+        }
+
 
     }
 }

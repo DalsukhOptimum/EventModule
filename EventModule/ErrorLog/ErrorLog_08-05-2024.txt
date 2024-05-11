@@ -1,0 +1,1546 @@
+------------------------------------------08-05-2024 10:49:46------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 10:49:46------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 10:49:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 10:49:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:32:13------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 14:32:13------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 14:32:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:32:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:36:07------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 14:36:07------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 14:36:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:36:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:37:41------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 14:37:41------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 14:37:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:37:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:37:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:37:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:38:00------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 14:38:00------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 14:39:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:39:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 14:40:11------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 14:40:11------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 14:40:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 14:40:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 15:15:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 15:15:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 15:31:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 15:31:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:13:25------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 16:13:25------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 16:13:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:13:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:13:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:13:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:13:59------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:13:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:13:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:00------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:12------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:14:13------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:20------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:21------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:53------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:55------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:15:56------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:16:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:16:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:16:14------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:17:00------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:17:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:17:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:17:01------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:17:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:17:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:17:03------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:48------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:49------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:51------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:21:52------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:23:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:23:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:23:38------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:23:53------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 16:23:53------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 16:23:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:23:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:15------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:21------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:22------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:23------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:44------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:58------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:24:59------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:25:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:25:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:25:12------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:25:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:25:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:25:13------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:25:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:26:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:26:57------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionColumn 'ResponseMessage' does not belong to table Table.   at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 53
+------------------------------------------08-05-2024 16:26:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:26:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:26:59------------------------------------------
+UserReBL=>RegisterUSer=>ExceptionObject reference not set to an instance of an object.   at BL.ShowEventActivity.activityAndEvent(EventEntity objEntity) in C:\Users\dalsu\OneDrive\Desktop\Intern\EventModule\BL\ShowEventActivity.cs:line 65
+------------------------------------------08-05-2024 16:27:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:27:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:29:25------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 16:29:25------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 16:29:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:29:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:30:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:30:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:30:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:30:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:31:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:31:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:34:08------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 16:34:08------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 16:34:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:34:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:34:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:34:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:36:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:36:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:38:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:38:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:39:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:39:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:39:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:39:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:40:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:40:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:41:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:41:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:42:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:42:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:43:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:43:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:44:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:44:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:44:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:44:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:57:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:57:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:58:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:58:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 16:58:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 16:58:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:02:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:02:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:03:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:03:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:04:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:04:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:04:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:04:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:04:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:04:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:04:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:04:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:05:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:05:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:06:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:06:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:06:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:06:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:06:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:06:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:07:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:07:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:07:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:07:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:09:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:09:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:10:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:10:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:11:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:11:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:11:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:11:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:11:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:11:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:13:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:13:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:14:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:14:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:14:32------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 17:14:32------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 17:14:57------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 17:14:57------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 17:15:06------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 17:15:06------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 17:15:21------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 17:15:21------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 17:15:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:15:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:15:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:15:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:16:10------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 17:16:10------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 17:16:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:16:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:16:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:16:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:16:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:16:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:17:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:17:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:21:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:21:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:22:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:22:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:22:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:22:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:23:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:23:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:23:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:23:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:23:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:23:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:23:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:23:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:24:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:24:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:25:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:25:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:28:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:28:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:28:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:28:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:28:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:28:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:29:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:29:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:29:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:29:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:29:46------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:29:46------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:30:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:30:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:30:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:30:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:30:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:30:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:30:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:30:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:30:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:30:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:31:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:31:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:31:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:31:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:32:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:32:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:32:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:32:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:32:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:32:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:32:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:32:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:33:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:33:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:36:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:36:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:36:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:36:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:36:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:36:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:36:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:36:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:37:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:37:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:37:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:37:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:38:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:38:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:38:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:38:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:39:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:39:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:39:31------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:39:31------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:41:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:41:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:41:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:41:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:41:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:41:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:42:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:42:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:42:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:42:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:43:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:43:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:43:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:43:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:43:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:43:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:44:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:44:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:52:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:52:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:52:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:52:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:52:38------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:52:38------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:52:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:52:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:53:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:53:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:53:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:53:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:55:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:55:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:55:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:55:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:55:27------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:55:27------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:55:30------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:55:30------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:55:50------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:55:50------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:56:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:56:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:57:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:57:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 17:57:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 17:57:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:02:43------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:02:43------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:03:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:03:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:03:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:03:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:04:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:04:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:04:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:04:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:04:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:04:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:04:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:04:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:04:58------------------------------------------
+api/EventModule/AddEvent=>API call started
+------------------------------------------08-05-2024 18:04:58------------------------------------------
+AddEventBL=>AddEvent=>Started
+------------------------------------------08-05-2024 18:05:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:05:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:06:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:06:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:06:33------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 18:06:33------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 18:06:34------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 18:06:34------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 18:06:35------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 18:06:35------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 18:06:40------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:06:40------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:07:47------------------------------------------
+api/EventModule/Calander
+------------------------------------------08-05-2024 18:07:47------------------------------------------
+Monthwise=>Monthwiseshow=>Started
+------------------------------------------08-05-2024 18:07:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:07:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:08:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:08:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:08:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:08:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:09:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:09:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:09:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:09:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:10:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:10:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:10:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:10:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:13:58------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:13:58------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:14:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:14:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:14:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:14:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:16:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:16:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:18:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:18:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:19:25------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:19:25------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:19:45------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:19:45------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:21:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:21:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:21:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:21:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:06------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:06------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:07------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:07------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:08------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:08------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:22:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:22:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:23:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:23:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:23:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:23:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:23:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:23:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:24:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:24:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:24:28------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:24:28------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:24:34------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:24:34------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:24:48------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:24:48------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:25:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:25:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:25:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:25:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:25:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:25:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:26:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:26:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:26:11------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:26:11------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:26:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:26:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:27:26------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:27:26------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:27:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:27:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:23------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:23------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:28:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:28:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:47:59------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:47:59------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:01------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:01------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:13------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:13------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:16------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:16------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:48:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:48:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:53:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:53:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:53:55------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:53:55------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:53:56------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:53:56------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:54:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:54:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:54:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:54:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:54:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:54:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:55:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:55:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:55:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:55:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 18:55:41------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 18:55:41------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:06:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:06:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:06:52------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:06:52------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:06:54------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:06:54------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:06:57------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:06:57------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:06:57------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:06:57------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:07:02------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:07:02------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:07:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:07:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:09:03------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:09:03------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:09:18------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:09:18------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:09:53------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:09:53------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:00------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:00------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:39------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:11:39------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:11:39------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:39------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:42------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:42------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:11:51------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:11:51------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:11:51------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:11:51------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:04------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:04------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:09------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:09------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:12------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:12------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:14------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:12:14------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:12:14------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:14------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:32------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:32------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:35------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:12:35------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:12:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:36------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:36------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:47------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:47------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:12:49------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:12:49------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:05------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:05------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:21------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:21------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:24------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:24------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:29------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:29------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:33------------------------------------------
+api/EventModule/PublishOrAddPrice=>API call started
+------------------------------------------08-05-2024 19:13:33------------------------------------------
+PublishOrAddPriceBL=>PriceorPublisj=>Started
+------------------------------------------08-05-2024 19:13:33------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:33------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:13:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:13:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:15:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:15:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:15:20------------------------------------------
+api/EventModule/Login=>API call starte
+------------------------------------------08-05-2024 19:15:20------------------------------------------
+LoginAdimAndUserBL=>LoginUser=>Started
+------------------------------------------08-05-2024 19:15:20------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:15:20------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:15:22------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:15:22------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:15:35------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:15:35------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:15:37------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:15:37------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:16:10------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:16:10------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:16:15------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:16:15------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:16:17------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:16:17------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
+------------------------------------------08-05-2024 19:16:19------------------------------------------
+api/EventModule/showEventOrActivity=>API call started
+------------------------------------------08-05-2024 19:16:19------------------------------------------
+ShowEventActivity=>activityAndEvent=>Started
