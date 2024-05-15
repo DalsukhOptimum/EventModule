@@ -39,7 +39,7 @@ namespace BL
 
                 string Con_str = Connection.GetConnectionString();
                 SqlParameter prm1 = objSDP.CreateInitializedParameter("@Name", DbType.String, "OTP");
-                SqlParameter prm2 = objSDP.CreateInitializedParameter("@Name", DbType.String,objEntity.Email);
+                SqlParameter prm2 = objSDP.CreateInitializedParameter("@Email", DbType.String,objEntity.Email);
 
 
                 SqlParameter[] Sqlpara = { prm1, prm2 };
